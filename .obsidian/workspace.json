@@ -11,30 +11,12 @@
             "id": "1b59737fcfaf55da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
+                "file": "Year3/Sem01/CSMC312/NetworkingStudy/Beej_Introduction-to-Network-Programming.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b96e9f3b13d776e5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "91525fe4c425a45a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file-text",
+              "title": "Beej_Introduction-to-Network-Programming"
             }
           }
         ]
@@ -207,10 +189,27 @@
   },
   "active": "1b59737fcfaf55da",
   "lastOpenFiles": [
+    "Welcome.md",
+    "Year3/Sem01/CSMC312/NetworkingStudy/Beej_Introduction-to-Network-Programming.pdf",
+    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt07/Slightly_Advanced_Techniques.md",
+    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt07",
+    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/SimpleStreamServer/UDP/talker.c",
+    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/SimpleStreamServer/UDP/talker",
+    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/SimpleStreamServer/UDP/listener.c",
+    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/SimpleStreamServer/UDP/listener",
+    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/SimpleStreamServer/TCP/server.c",
+    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/SimpleStreamServer/TCP/client.c",
+    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/test/server.c",
+    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/test/server",
+    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/SimpleStreamServer/notes.md",
+    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/project2/README.md",
+    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/project1/ChatGPT_Guide.md",
+    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/Notes/Client-Server_Background.md",
+    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt05/Notes/System_Calls-or-Bust.md",
+    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt04/Notes/Jumping_from_IPv4-to-IPv6.md",
+    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt03/Notes/IP_Addresses-structs-DataMunging.md",
+    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt02/Notes/socket.md",
     "Year3/Sem01/THEN102/2026-08-24.md",
-    "Year3/Sem01/THEN102",
-    "Year3/Sem01",
-    "Year3",
-    "Welcome.md"
+    "Year3/Sem01/CSMC312/Untitled.md"
   ]
 }
