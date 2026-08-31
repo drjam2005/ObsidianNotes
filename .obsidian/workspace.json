@@ -11,10 +11,14 @@
             "id": "d24da7f9ddb24eb2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Year3/Sem01/CSMC312/CSMC312_README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSMC312_README"
             }
           }
         ]
@@ -185,10 +189,12 @@
   },
   "active": "d24da7f9ddb24eb2",
   "lastOpenFiles": [
+    "School Study.md",
+    "Year3/Sem01/THEN102/README.md",
+    "Year3/Sem01/CSMC312/CSMC312_README.md",
+    "Year3/Sem01/CSMC312/CSMC312",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/Chapt06 Notes.md",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt05/Chapt05 Notes.md",
-    "Year3/Sem01/CSMC312/CSMC312 README.md",
-    "School Study.md",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/project2/README.md",
     "Untitled.md",
     "Year3/Sem01/CSMC312/NetworkingStudy/NetworkingStudy README.md",
@@ -196,7 +202,6 @@
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt07/Notes/Slightly_Advanced_Techniques.md",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt07/Notes",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/Notes/Client-Server_Background.md",
-    "Year3/Sem01/THEN102/README.md",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt04/Chapt04 Notes.md",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt03/Chapt03 Notes.md",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt02/Chapt02 Notes.md",
@@ -209,7 +214,6 @@
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/SimpleStreamServer/UDP/listener",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/SimpleStreamServer/TCP/server.c",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/SimpleStreamServer/TCP/client.c",
-    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/test/server.c",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/SimpleStreamServer/notes.md",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/project1/ChatGPT_Guide.md",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt05/Notes/System_Calls-or-Bust.md",
