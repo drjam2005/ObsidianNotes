@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year3/Sem01/CSMC312/CSMC312_README.md",
+                "file": "School Study.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSMC312_README"
+              "title": "School Study"
             }
           }
         ]
@@ -189,10 +189,10 @@
   },
   "active": "e53919b83d343d26",
   "lastOpenFiles": [
+    "Year3/Sem01/CSMC312/CSMC312_README.md",
     "Year3/Sem01/PHIN103",
     "Year3/Sem01/THEN102/README.md",
     "School Study.md",
-    "Year3/Sem01/CSMC312/CSMC312_README.md",
     "Year3/Sem01/CSMC312/CSMC312",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/Chapt06 Notes.md",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt05/Chapt05 Notes.md",
@@ -214,7 +214,6 @@
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/SimpleStreamServer/UDP/listener.c",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/SimpleStreamServer/UDP/listener",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/SimpleStreamServer/TCP/server.c",
-    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/SimpleStreamServer/TCP/client.c",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/SimpleStreamServer/notes.md",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/project1/ChatGPT_Guide.md",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt05/Notes/System_Calls-or-Bust.md",
