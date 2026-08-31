@@ -13,12 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year3/Sem01/THEN102/2026-08-24.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-24"
+              "title": "Welcome"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b96e9f3b13d776e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91525fe4c425a45a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -189,12 +205,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "45fbfc5e918ea0bf",
+  "active": "1b59737fcfaf55da",
   "lastOpenFiles": [
-    "Welcome.md",
     "Year3/Sem01/THEN102/2026-08-24.md",
     "Year3/Sem01/THEN102",
     "Year3/Sem01",
-    "Year3"
+    "Year3",
+    "Welcome.md"
   ]
 }
