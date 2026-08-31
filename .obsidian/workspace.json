@@ -11,12 +11,30 @@
             "id": "1b59737fcfaf55da",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Year3/Sem01/CSMC312/NetworkingStudy/Beej_Introduction-to-Network-Programming.pdf"
+                "file": "Year3/Sem01/CSMC312/NetworkingStudy/README.md.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Beej_Introduction-to-Network-Programming"
+              "icon": "lucide-file",
+              "title": "README.md"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b96e9f3b13d776e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91525fe4c425a45a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -190,7 +208,7 @@
   "active": "1b59737fcfaf55da",
   "lastOpenFiles": [
     "Welcome.md",
-    "Year3/Sem01/CSMC312/NetworkingStudy/Beej_Introduction-to-Network-Programming.pdf",
+    "Year3/Sem01/CSMC312/NetworkingStudy/README.md.md",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt07/Slightly_Advanced_Techniques.md",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt07",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/SimpleStreamServer/UDP/talker.c",
@@ -201,6 +219,7 @@
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/SimpleStreamServer/TCP/client.c",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/test/server.c",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/test/server",
+    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/test/client.c",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/SimpleStreamServer/notes.md",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/project2/README.md",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/project1/ChatGPT_Guide.md",
@@ -209,7 +228,6 @@
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt04/Notes/Jumping_from_IPv4-to-IPv6.md",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt03/Notes/IP_Addresses-structs-DataMunging.md",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt02/Notes/socket.md",
-    "Year3/Sem01/THEN102/2026-08-24.md",
-    "Year3/Sem01/CSMC312/Untitled.md"
+    "Year3/Sem01/THEN102/2026-08-24.md"
   ]
 }
