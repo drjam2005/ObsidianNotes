@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c0376239b3908616",
+        "id": "77b5baadc11270f1",
         "type": "tabs",
         "children": [
           {
-            "id": "d24da7f9ddb24eb2",
+            "id": "e53919b83d343d26",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +19,52 @@
               },
               "icon": "lucide-file",
               "title": "CSMC312_README"
-            }
+            },
+            "group": "e7c47f70fc2b22ee"
+          }
+        ]
+      },
+      {
+        "id": "413e92193ad71b5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "949450036c410d02",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Year3/Sem01/CSMC312/CSMC312_README.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of CSMC312_README"
+            },
+            "group": "e7c47f70fc2b22ee"
           }
         ]
       }
@@ -187,10 +232,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "d24da7f9ddb24eb2",
+  "active": "949450036c410d02",
   "lastOpenFiles": [
-    "School Study.md",
     "Year3/Sem01/THEN102/README.md",
+    "School Study.md",
     "Year3/Sem01/CSMC312/CSMC312_README.md",
     "Year3/Sem01/CSMC312/CSMC312",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/Chapt06 Notes.md",
