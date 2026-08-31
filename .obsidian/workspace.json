@@ -4,31 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "768659cdb477d944",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1b59737fcfaf55da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year3/Sem01/CSMC312/NetworkingStudy/README.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README.md"
-            }
-          }
-        ]
-      },
-      {
         "id": "b96e9f3b13d776e5",
         "type": "tabs",
         "children": [
           {
             "id": "91525fe4c425a45a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School Study.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "School Study"
+            }
+          }
+        ]
+      },
+      {
+        "id": "868366f1dbacc13b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7520d5688bfb151c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year3/Sem01/CSMC312/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ce3ed693bd804eee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10ef76e6464831f9",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -106,16 +126,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a66c7326041823ac",
+        "id": "f8fc899a1e4ad52b",
         "type": "tabs",
         "children": [
           {
-            "id": "6f6432c88009a6a8",
+            "id": "443731a84c2a1dcd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Year3/Sem01/CSMC312/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,12 +149,12 @@
             }
           },
           {
-            "id": "15706adca00498c3",
+            "id": "43f6268e9182f45d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Year3/Sem01/CSMC312/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -143,7 +163,7 @@
             }
           },
           {
-            "id": "0682e9772f4bebf3",
+            "id": "567801a5d9ce570d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -158,7 +178,7 @@
             }
           },
           {
-            "id": "a03a975bb9c165f7",
+            "id": "b3ba9caf5a095697",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -172,12 +192,12 @@
             }
           },
           {
-            "id": "4c0b84cc24cc98de",
+            "id": "b394c520bda36224",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Year3/Sem01/CSMC312/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 750.4609375,
     "collapsed": true
   },
   "left-ribbon": {
@@ -205,10 +225,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "1b59737fcfaf55da",
+  "active": "7520d5688bfb151c",
   "lastOpenFiles": [
-    "Welcome.md",
     "Year3/Sem01/CSMC312/NetworkingStudy/README.md.md",
+    "Year3/Sem01/CSMC312/README.md",
+    "School Study.md",
+    "Untitled.md",
+    "Year3/Sem01/THEN102/README.md",
+    "create a link.md",
+    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/project2/README.md",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt07/Slightly_Advanced_Techniques.md",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt07",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/SimpleStreamServer/UDP/talker.c",
@@ -221,7 +246,6 @@
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/test/server",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/test/client.c",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/SimpleStreamServer/notes.md",
-    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/project2/README.md",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/project1/ChatGPT_Guide.md",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/Notes/Client-Server_Background.md",
     "Year3/Sem01/CSMC312/NetworkingStudy/Chapt05/Notes/System_Calls-or-Bust.md",
