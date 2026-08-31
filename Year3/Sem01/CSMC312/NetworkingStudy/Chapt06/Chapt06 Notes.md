@@ -1,6 +1,5 @@
 Notes:
 - [[Client-Server_Background]]
-- [[System_Calls-or-Bust]]
 
 Projects:
 	- projects:
