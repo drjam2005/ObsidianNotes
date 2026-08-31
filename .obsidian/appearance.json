@@ -1,5 +1,6 @@
 {
   "monospaceFontFamily": "IosevkaTerm Nerd Font Mono",
   "interfaceFontFamily": "",
-  "textFontFamily": "IosevkaTerm Nerd Font Mono"
+  "textFontFamily": "IosevkaTerm Nerd Font Mono",
+  "theme": "obsidian"
 }
