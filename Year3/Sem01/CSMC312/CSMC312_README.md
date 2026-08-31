@@ -1,2 +1,9 @@
+---
+id: CSMC312_README
+aliases: []
+tags:
+  - CSMC312
+---
 Study for CSMC312
-separate networking study exists in [[./NetworkingStudy/NetworkingStudy_README.md|README.md]]
+
+Operating System Concepts: [[OS_Concepts/OS_Concepts_README|Concepts]]

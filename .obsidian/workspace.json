@@ -13,12 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School Study.md",
+                "file": "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/InterruptTimeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "School Study"
+              "title": "InterruptTimeline"
+            }
+          }
+        ]
+      },
+      {
+        "id": "76ba17f800983853",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e59fbce8b89f8a97",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -79,11 +95,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 441.2042427062988
   },
   "right": {
     "id": "80b3f8accdf23fa3",
@@ -187,39 +204,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "45fbfc5e918ea0bf",
+  "active": "e59fbce8b89f8a97",
   "lastOpenFiles": [
-    "School Study.md",
-    "Untitled.md",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/InterruptTimeline.md",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Chapter1_Introduction.md~",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/IOStructure.md~",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/IOStructure.md",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/InterruptTimeline.md~",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Chapter1_Introduction.md",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/ComputerSystemOrganization.md",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/images/InterruptTimeline.png",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/InterruptHandling.md~",
+    "Year3/Sem01/CSMC312/OS_Concepts/OS_Concepts_README.md",
     "Year3/Sem01/CSMC312/CSMC312_README.md",
-    "Year3/Sem01/PHIN103",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/Interrupt.md~",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/InterruptHandling.md",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/CommonFunctionsOfInterrupts.md~",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/CommonFunctionsOfInterrupts.md",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/Interrupt.md",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/ComputerSystemOperation.md~",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/ComputerSystemOperation.md",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/ComputerSystemOrganization.md~",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/ComputerStartup.md",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/images/ComputerSystemOrganization01.png",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/images",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/New Folder",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Part1_README.md",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/OperatingSystemFormalDefinition.md",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/OperatingSystem.md",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/ComputerSystemStructure.md",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/WhatOperatingSystemsDo.md",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/FourComponentsOfAComputerSystem.md",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/diagrams/Untitled.canvas",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/Untitled.canvas",
     "Year3/Sem01/THEN102/README.md",
-    "Year3/Sem01/CSMC312/CSMC312",
-    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/Chapt06 Notes.md",
-    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt05/Chapt05 Notes.md",
-    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/project2/README.md",
-    "Year3/Sem01/CSMC312/NetworkingStudy/NetworkingStudy README.md",
-    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt07/Chapt07 Notes.md",
-    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt07/Notes/Slightly_Advanced_Techniques.md",
-    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt07/Notes",
-    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/Notes/Client-Server_Background.md",
-    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt04/Chapt04 Notes.md",
-    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt03/Chapt03 Notes.md",
-    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt02/Chapt02 Notes.md",
-    "Chapt06",
-    "create a link.md",
-    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt07",
-    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/SimpleStreamServer/UDP/talker.c",
-    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/SimpleStreamServer/UDP/talker",
-    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/SimpleStreamServer/UDP/listener.c",
-    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/SimpleStreamServer/UDP/listener",
-    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/SimpleStreamServer/TCP/server.c",
-    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/src/SimpleStreamServer/notes.md",
-    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt06/project1/ChatGPT_Guide.md",
-    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt05/Notes/System_Calls-or-Bust.md",
-    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt04/Notes/Jumping_from_IPv4-to-IPv6.md",
-    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt03/Notes/IP_Addresses-structs-DataMunging.md",
-    "Year3/Sem01/CSMC312/NetworkingStudy/Chapt02/Notes/socket.md",
-    "Year3/Sem01/THEN102/2026-08-24.md"
+    "School Study.md",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1_Introduction.md",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1.md",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Introduction.md",
+    "Year3/Sem01/PHIN103/Notes/God/Ontological_Argument.md",
+    "Year3/Sem01/PHIN103/Notes/God/Cosmological_Argument.md",
+    "Year3/Sem01/PHIN103/Notes/God/Teleological_Argument.md"
   ]
 }

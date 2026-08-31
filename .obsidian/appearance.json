@@ -2,5 +2,8 @@
   "monospaceFontFamily": "IosevkaTerm Nerd Font Mono",
   "interfaceFontFamily": "",
   "textFontFamily": "IosevkaTerm Nerd Font Mono",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "mermaid"
+  ]
 }

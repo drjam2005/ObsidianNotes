@@ -1,7 +1,7 @@
 {
-  "collapse-filter": true,
-  "search": "",
-  "showTags": false,
+  "collapse-filter": false,
+  "search": "path:Year3/Sem01/CSMC312  ",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
@@ -12,11 +12,11 @@
   "textFadeMultiplier": -2.5,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.431262958622555,
   "repelStrength": 6.28865050031551,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9652889310875239,
-  "close": false
+  "scale": 0.666666666666669,
+  "close": true
 }
