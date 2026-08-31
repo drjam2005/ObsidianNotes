@@ -1,4 +1,12 @@
 {
   "editor:delete-paragraph": [],
-  "workspace:close": []
+  "workspace:close": [],
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "X"
+    }
+  ]
 }
