@@ -13,78 +13,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SchoolStudy.md",
+                "file": "Year3/Sem01/CSMC312/OS_Concepts/Part1/Part1_README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SchoolStudy"
+              "title": "Part1_README"
             }
           },
           {
-            "id": "2f96a36c74c869b3",
+            "id": "a7d579d94e2d2a99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year3/Sem01/PHIN103/README.md",
+                "file": "Year3/Sem01/CSMC312/OS_Concepts/Part1/Part1_README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Part1_README"
             }
           },
           {
-            "id": "da68e0599d93baee",
+            "id": "6f8498a2492c83eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year3/Sem01/PHIN103/Notes/God/Cosmological_Argument.md",
+                "file": "Year3/Sem01/CSMC312/OS_Concepts/Part1/Part1_README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cosmological_Argument"
+              "title": "Part1_README"
             }
           },
           {
-            "id": "c7bd1fe83addd4ff",
+            "id": "8c4be3b8e7611b83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SchoolStudy.md",
+                "file": "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter2/Chapter2_OperatingSystemConcepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SchoolStudy"
+              "title": "Chapter2_OperatingSystemConcepts"
+            }
+          },
+          {
+            "id": "f29229a5aa99957c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "6b3731d56db6fa78",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e53919b83d343d26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/InterruptTimeline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "InterruptTimeline"
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#CSMC312",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -222,7 +212,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/InterruptTimeline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -232,13 +221,13 @@
             }
           },
           {
-            "id": "0017def5b63f20d0",
+            "id": "258b84cfb9a872a7",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "git-history-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "history",
+              "title": "History"
             }
           }
         ],
@@ -246,54 +235,55 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488.5,
+    "width": 750.4609375,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "da68e0599d93baee",
+  "active": "8c4be3b8e7611b83",
   "lastOpenFiles": [
-    "README.md",
-    "SchoolStudy.md~",
-    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/InterruptTimeline.md",
-    "Year3/Sem01/PHIN103/Notes/God/Cosmological_Argument.md",
-    "Year3/Sem01/PHIN103/README.md",
-    "Year3/Sem01/PHIN103/Notes/God/README.md",
-    "SchoolStudy.md",
-    "Year3/Sem01/PHIN103/Notes/God/Ontological_Argument.md",
-    "Year3/Sem01/THEN102/2026-08-24.md",
-    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Chapter1_Introduction.md",
+    "Year3/Sem01/PHIN103/Notes/God/Ontological_Argument.md~",
+    "Year3/Sem01/PHIN103/Notes/God/Teleological_Argument.md~",
+    "Year3/Sem01/PHIN103/README.md~",
+    "Year3/Sem01/PHIN103/Notes/God/README.md~",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter2/Concepts/SystemCalls.md~",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Chapter1_Introduction.md~",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter2/Chapter2_OperatingSystemConcepts.md~",
     "Year3/Sem01/CSMC312/OS_Concepts/Part1/Part1_README.md",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Chapter1_Introduction.md",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter2/Chapter2_OperatingSystemConcepts.md",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter2/Concepts/SystemCalls.md",
     "Year3/Sem01/CSMC312/OS_Concepts/OS_Concepts_README.md",
     "Year3/Sem01/CSMC312/CSMC312_README.md",
-    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Chapter1_Introduction.md~",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter2/Concepts/AViewOfOperatingSystemServices.md",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter2/Chapter2_Introduction.md",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter2/Chapter2_Introduction.md~",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter2/Concepts/OperatingSystemServices.md",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter2",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/InterruptTimeline.md",
+    "README.md",
+    "SchoolStudy.md",
     "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/IOStructure.md~",
     "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/IOStructure.md",
     "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/InterruptTimeline.md~",
     "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/ComputerSystemOrganization.md",
     "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/images/InterruptTimeline.png",
-    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/InterruptHandling.md~",
-    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/Interrupt.md~",
     "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/InterruptHandling.md",
-    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/CommonFunctionsOfInterrupts.md~",
     "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/CommonFunctionsOfInterrupts.md",
     "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/Interrupt.md",
-    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/ComputerSystemOperation.md~",
     "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/ComputerSystemOperation.md",
-    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/ComputerSystemOrganization.md~",
     "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/ComputerStartup.md",
     "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/images/ComputerSystemOrganization01.png",
-    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/images",
     "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/OperatingSystemFormalDefinition.md",
     "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/OperatingSystem.md",
     "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/ComputerSystemStructure.md",
@@ -301,7 +291,6 @@
     "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/FourComponentsOfAComputerSystem.md",
     "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/diagrams/Untitled.canvas",
     "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/Untitled.canvas",
-    "Year3/Sem01/THEN102/README.md",
-    "School Study.md"
+    "Year3/Sem01/THEN102/README.md"
   ]
 }
