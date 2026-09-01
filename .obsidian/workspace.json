@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Chapter1_Introduction.md",
+                "file": "SchoolStudy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter1_Introduction"
+              "title": "SchoolStudy"
+            }
+          },
+          {
+            "id": "2f96a36c74c869b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year3/Sem01/PHIN103/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "da68e0599d93baee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year3/Sem01/PHIN103/Notes/God/Cosmological_Argument.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cosmological_Argument"
+            }
+          },
+          {
+            "id": "c7bd1fe83addd4ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SchoolStudy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SchoolStudy"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "6b3731d56db6fa78",
@@ -75,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CSMC312",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,8 +142,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,6 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/InterruptTimeline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -187,30 +230,46 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "0017def5b63f20d0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 750.4609375,
+    "width": 488.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e59fbce8b89f8a97",
+  "active": "e53919b83d343d26",
   "lastOpenFiles": [
+    "Year3/Sem01/PHIN103/Notes/God/Cosmological_Argument.md",
+    "Year3/Sem01/PHIN103/README.md",
+    "Year3/Sem01/PHIN103/Notes/God/README.md",
     "SchoolStudy.md",
+    "Year3/Sem01/PHIN103/Notes/God/Ontological_Argument.md",
+    "Year3/Sem01/THEN102/2026-08-24.md",
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Chapter1_Introduction.md",
     "Year3/Sem01/CSMC312/OS_Concepts/Part1/Part1_README.md",
     "Year3/Sem01/CSMC312/OS_Concepts/OS_Concepts_README.md",
     "Year3/Sem01/CSMC312/CSMC312_README.md",
@@ -219,7 +278,6 @@
     "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/IOStructure.md~",
     "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/IOStructure.md",
     "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/InterruptTimeline.md~",
-    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Chapter1_Introduction.md",
     "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/ComputerSystemOrganization.md",
     "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/images/InterruptTimeline.png",
     "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/InterruptHandling.md~",
@@ -244,11 +302,6 @@
     "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Concepts/Untitled.canvas",
     "Year3/Sem01/THEN102/README.md",
     "School Study.md",
-    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1_Introduction.md",
-    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1.md",
-    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1/Introduction.md",
-    "Year3/Sem01/PHIN103/Notes/God/Ontological_Argument.md",
-    "Year3/Sem01/PHIN103/Notes/God/Cosmological_Argument.md",
-    "Year3/Sem01/PHIN103/Notes/God/Teleological_Argument.md"
+    "Year3/Sem01/CSMC312/OS_Concepts/Part1/Chapter1_Introduction.md"
   ]
 }

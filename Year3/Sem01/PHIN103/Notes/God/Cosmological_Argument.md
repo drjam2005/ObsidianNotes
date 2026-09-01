@@ -16,7 +16,7 @@ Cosmological Argument
 
 ### The Big Critiques:
 1. The Mother Analogy (Bertrand Russel):
-    - Just because every individual humanh as a mother, does not mean the entire human race has one collective mother.
+    - Just because every individual human as a mother, does not mean the entire human race has one collective mother.
         -> It is incorrect to assume the *whole universe* must have a cause just because *parts* inside it do.
 2. An Endless Past:
     - Why can't the universe have existed forever without a beginning?

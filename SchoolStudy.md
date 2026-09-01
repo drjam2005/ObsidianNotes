@@ -3,4 +3,5 @@ notes for school
 ## Third Year
 - **1st Sem**
 	- THEN102 [[./Year3/Sem01/THEN102/2026-08-24.md|THEN102 README]]
+	- PHIN103 [[Year3/Sem01/PHIN103/README|PHIN README]]
 	- CSMC312 [[./Year3/Sem01/CSMC312/CSMC312_README.md|CSMC312 README]]

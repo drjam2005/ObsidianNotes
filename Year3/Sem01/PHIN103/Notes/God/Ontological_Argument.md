@@ -10,10 +10,10 @@ Ontological Argument (Reason Alone)
 ### The Main Logic (as proposed by St. Anselm):
   1. By definition, **God is "that than which nothing greater can be conceived"**, (the greatest thing one can possible imagine.
   2. Even an atheist can grasp this definition -> meaning God exists as an idea in their understanding
-  3. it is **greater to exist in real life** than to exist only as an ideda in someone's head.
-  4. Therefore, if the greatest imaginable being onyl existed as an idea;
+  3. it is **greater to exist in real life** than to exist only as an idea in someone's head.
+  4. Therefore, if the greatest imaginable being only existed as an idea;
   -> we could easily imagine something even greater: that same being existing in real life.
-  5. To truly be the greating imaginable being, **God must exist in reality**.
+  5. To truly be the greatest imaginable being, **God must exist in reality**.
 
 ### One of the Big Critiques:
   1. The Fallacy of Reification:
