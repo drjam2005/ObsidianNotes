@@ -7,3 +7,4 @@ tags: []
 ### Part 1: Overview
 - Chapters Covered:
     - [[Chapter1/Chapter1_Introduction.md|Chapter 1]]
+    - [[Chapter2/Chapter2_OperatingSystemConcepts.md|Chapter 2]]
